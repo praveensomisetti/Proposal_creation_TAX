@@ -1,5 +1,5 @@
 # Proposal_creation_TAX
-Proposal Card Creation from the user input in form of free text and for tax created some dynamically questions to answer and from that proposal has created. Deployed using AWS EC2   
+Proposal Card Creation from the user input in form of free text and for tax created some dynamically questions to answer and from that proposal has created. Deployed using AWS EC2  - Used Ubuntu in EC2.
 
 # expertDP - Expert Dynamic profile generation using streamlit applications
 
