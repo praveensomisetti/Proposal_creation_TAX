@@ -50,6 +50,14 @@ sudo apt-get install python3-venv
 ```bash
 python3 -m venv myenv
 source myenv/bin/activate
+
+sudo apt install -y python3.10 python3.10-venv python3.10-distutils
+installs Python 3.10 along with the necessary modules for creating virtual environments (python3.10-venv) and managing Python packages (python3.10-distutils) on a Linux system, with automatic confirmation of installation prompts (-y).
+
+python3.10 -m venv myenv1
+
+
+
 ```
 
 ```bash
