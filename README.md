@@ -84,6 +84,15 @@ nohup python3 -m streamlit run app.py
 ```
 
 Note: Streamlit runs on this port: 8501
+      if we add another updated file in the git repo then the new streamlit port : 8502 [ this will go on as we are addding new files] this should be added i the instance - security groups - edit securitygroups - edit inbound rules - tcp-8502-00000
+
+```bash
+#commands to use newly added py files and then pulling to ec2 instance
+git fetch
+git pull
+```
+
+
 
 
 
