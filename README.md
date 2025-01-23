@@ -5,7 +5,8 @@ Deployed using AWS EC2  - Used Ubuntu in EC2.
 # expertDP - Expert Dynamic profile generation using streamlit applications
 
 
-app - main file
+Conversational_matching_proposal_withprice.py - main file with price added
+Conversational_matching_proposals - main file without price
 
 # How to Deploy Streamlit app on EC2 instance
 
